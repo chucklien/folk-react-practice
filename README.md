@@ -1,2 +1,2 @@
-# folk-react-practice
+# react-practice
 Created with CodeSandbox
